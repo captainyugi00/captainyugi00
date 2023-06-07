@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Paolo Vergani</h1>
-<h3 align="center">A passionate backend developer from Italy/Switzerland</h3>
+<h3 align="center">A passionate backend developer from Italy / Switzerland</h3>
 
 - 🔭 I’m currently working on [DemonSolutions](https://www.demonsolutions.io/)
 
 - 🌱 I’m currently learning **AI, ML, Stable Diffusion**
 
-- 🔭 I’m currently working on [ClipVision](https://www.clipvision.ai/)
+- 🔭 I’m also working on [ClipVision](https://www.clipvision.ai/)
 
-- 💬 Ask me about **Python, Go and Video Making**
+- 💬 Ask me about **Python, Go, Video Making and some other stuff!**
 
-- 📫 How to reach me **paolovergani003@gmail.com**
+- 📫 How to reach me: **paolo.vergani@clipvision.ai**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

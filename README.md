@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paolo Vergani</h1>
-<h3 align="center">A passionate backend developer from Italy / Switzerland</h3>
+<h3 align="center">A passionate Backend Developer from Italy / Switzerland</h3>
 
 - 🔭 I’m currently working on [DemonSolutions](https://www.demonsolutions.io/)
 

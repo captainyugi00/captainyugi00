@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Paolo Vergani</h1>
 <h3 align="center">A passionate Backend Developer from Italy / Switzerland</h3>
 
-- 🔭 I’m currently working on [DemonSolutions](https://www.demonsolutions.io/)
+- 🔭 I'm currently working at [Elmec](https://www.elmec.com/)
+  
+- 🔭 I’m also working on [ClipVision](https://www.clipvision.ai/)
+  
+- 🔭 I’ve been working on [DemonSolutions](https://www.demonsolutions.io/)
 
 - 🌱 I’m currently learning **AI, ML, Stable Diffusion**
-
-- 🔭 I’m also working on [ClipVision](https://www.clipvision.ai/)
 
 - 💬 Ask me about **Python, Go, Video Making and some other stuff!**
 

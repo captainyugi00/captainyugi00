@@ -1,14 +1,17 @@
 <h1 align="center">Hi 👋, I'm Paolo Vergani</h1>
-<h3 align="center">A passionate Backend Developer from Italy</h3>
+<h3 align="center">A passionate Full-Stack Developer from Italy</h3>
 
-- 🔭 I'm currently working at [Elmec](https://www.elmec.com/)
-- 🔭 I’m also working on [ClipVision](https://www.clipvision.ai/)
-- 🔭 I’m also working on [SniperAIO](https://x.com/Sniper_AIO)
+- 🔭 I'm currently working on [Inoue AI](https://www.inoue.app/)
+- 🔭 I'm currently working on [Inoue AI Vault](https://vault.inoue.app/)
+- 🔭 I'm currently working at [WeWill S.r.l.](https://www.wewill.ai/)
+- 🔭 I've been working at [Elmec Informatica S.p.A.](https://www.elmec.com/)
+- 🔭 I’ve been working on [ClipVision](https://www.clipvision.ai/)
+- 🔭 I’ve been working on [SniperAIO](https://x.com/Sniper_AIO)
 - 🔭 I’ve been working on [DemonSolutions](https://www.demonsolutions.io/)
 - 🔭 I’ve been working on Phasma AIO
 
-- 🌱 I’m currently learning **AI, Machine Learning, Stable Diffusion, Solana Blockchain, Web3.js**
-- 💬 Ask me about **Python, Go, AI Video Making, Crypto, Automation and more!**
+- 🌱 I’m currently learning **LoRAs training, Images & Videos generation with AI models**
+- 💬 Ask me about **Python, Go, AI Video Making, HTTP Automation, TLS fingerprinting, SaaS and more!**
 
 - 📫 How to reach me: **paolovergani003@gmail.com**
 

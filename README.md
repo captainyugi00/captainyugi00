@@ -16,7 +16,7 @@
 
 I'm a self-taught builder. I cut my teeth in HTTP automation — sneaker bots, reseller tooling, and anti-bot reverse-engineering. That world taught the deep stuff most developers never touch: TLS fingerprinting, JA3/JA4, custom HTTP/2 stacks, and the constant cat-and-mouse of evading detection systems built by people whose entire job is to catch you.
 
-I took those skills upstream. Today I co-build **Inoue AI**, a production studio for AI creators, alongside operating inside companies like **WeWill** and **Elmec**. The rest of my time sits at the intersection of shipping AI products end-to-end and going deep on AI media generation — LoRA training, video pipelines, and the rapidly moving frontier of generative models.
+I took those skills upstream. Today I co-build **Inoue AI**, a production studio for AI creators. Earlier, I operated inside companies like **WeWill** and **Elmec**. The rest of my time sits at the intersection of shipping AI products end-to-end and going deep on AI media generation — LoRA training, video pipelines, and the rapidly moving frontier of generative models.
 
 ---
 
@@ -43,7 +43,7 @@ I took those skills upstream. Today I co-build **Inoue AI**, a production studio
 
 ## Past work
 
-- **[WeWill S.r.l.](https://www.wewill.ai/)** — current co-venture & employer
+- **[WeWill S.r.l.](https://www.wewill.ai/)** — past co-venture & role
 - **[ClipVision](https://www.clipvision.ai/)** — AI video tool
 - **[SniperAIO](https://x.com/Sniper_AIO)** — release & automation suite
 - **[DemonSolutions](https://www.demonsolutions.io/)** — automation tooling

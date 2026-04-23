@@ -1,29 +1,100 @@
-<h1 align="center">Hi 👋, I'm Paolo Vergani</h1>
-<h3 align="center">A passionate Full-Stack Developer from Italy</h3>
+<div align="center">
 
-- 🔭 I'm currently working on [Inoue AI](https://www.inoue.app/)
-- 🔭 I'm currently working on [Inoue AI Vault](https://vault.inoue.app/)
-- 🔭 I'm currently working at [WeWill S.r.l.](https://www.wewill.ai/)
-- 🔭 I've been working at [Elmec Informatica S.p.A.](https://www.elmec.com/)
-- 🔭 I’ve been working on [ClipVision](https://www.clipvision.ai/)
-- 🔭 I’ve been working on [SniperAIO](https://x.com/Sniper_AIO)
-- 🔭 I’ve been working on [DemonSolutions](https://www.demonsolutions.io/)
-- 🔭 I’ve been working on Phasma AIO
+# Paolo Vergani
 
-- 🌱 I’m currently learning **LoRAs training, Images & Videos generation with AI models**
-- 💬 Ask me about **Python, Go, AI Video Making, HTTP Automation, TLS fingerprinting, SaaS and more!**
+**Founder · Engineer · Creator**
 
-- 📫 How to reach me: **paolovergani003@gmail.com**
+<br />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/captainyugi00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="captainyugi00" height="30" width="40" /></a>
-<a href="https://twitter.com/lilyoungpolo1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lilyoungpolo1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/paolo-vergani-1082ab22b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paolo-vergani-1082ab22b" height="30" width="40" /></a>
-<a href="https://instagram.com/lilyoungpolo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lilyoungpolo" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@ChickenMcTiffy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chickenmctiffy" height="30" width="40" /></a>
-<a href="https://discord.gg/clipvision" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="clipvision" height="30" width="40" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1500&color=34D399&center=true&vCenter=true&width=620&lines=Self-taught+builder.;AI+products%2C+automation%2C+and+the+things+in+between.;Founder+of+Inoue+AI.;What+is+heart%3F+%E2%80%94+Ulquiorra" alt="tagline" />
+
+</div>
+
+---
+
+## About
+
+I'm a self-taught builder. I cut my teeth in HTTP automation — sneaker bots, reseller tooling, and anti-bot reverse-engineering. That world taught the deep stuff most developers never touch: TLS fingerprinting, JA3/JA4, custom HTTP/2 stacks, and the constant cat-and-mouse of evading detection systems built by people whose entire job is to catch you.
+
+I took those skills upstream. Today I co-build **Inoue AI**, a production studio for AI creators, alongside operating inside companies like **WeWill** and **Elmec**. The rest of my time sits at the intersection of shipping AI products end-to-end and going deep on AI media generation — LoRA training, video pipelines, and the rapidly moving frontier of generative models.
+
+---
+
+## Currently building
+
+- 🛠 **Inoue AI** — production AI studio for creators · [inoue.app](https://www.inoue.app/)
+- 🧠 Training **custom LoRAs** for character & style consistency
+- 🎬 Pushing **AI video pipelines** further — face swap, motion, captioning
+- 🔬 Going deeper on **TLS fingerprinting & HTTP/2 internals**
+
+---
+
+## Featured
+
+> ### [Inoue AI](https://www.inoue.app/)
+>
+> Production AI studio for creators and agencies. One platform for AI generation, scheduling, captioning, analytics, and worker orchestration.
+>
+> Companion product: **[Inoue Vault](https://vault.inoue.app/)** — asset & workflow vault for creator stacks.
+>
+> `React 19` · `TypeScript` · `Python` · `Go` · `Postgres` · `Worker orchestration`
+
+---
+
+## Past work
+
+- **[WeWill S.r.l.](https://www.wewill.ai/)** — current co-venture & employer
+- **[ClipVision](https://www.clipvision.ai/)** — AI video tool
+- **[SniperAIO](https://x.com/Sniper_AIO)** — release & automation suite
+- **[DemonSolutions](https://www.demonsolutions.io/)** — automation tooling
+- **Phasma AIO** — release / automation tooling
+- **Elmec Informatica S.p.A.** — past enterprise role
+
+---
+
+## Tech stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,go,ts,react,nextjs,nodejs,pytorch,docker,postgres,redis&theme=dark" alt="stack" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+| | |
+|---|---|
+| **Languages** | Python · Go · TypeScript |
+| **Web** | React · Next.js · Node.js · Tailwind |
+| **AI / ML** | PyTorch · LoRA training · Diffusion / video generation |
+| **Infra** | Docker · Postgres · Redis · Caddy · Cloudflare |
+| **Deep tech** | HTTP/2 · TLS fingerprinting · anti-bot research |
+
+---
+
+<div align="center">
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=captainyugi00&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=captainyugi00&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
+</a>
+
+</div>
+
+---
+
+## Connect & collab
+
+<div align="center">
+
+[LinkedIn](https://linkedin.com/in/paolo-vergani-1082ab22b) · [Twitter / X](https://twitter.com/lilyoungpolo1) · [paolovergani003@gmail.com](mailto:paolovergani003@gmail.com)
+
+<br />
+
+*Open to AI infra collabs, consulting, and interesting problems.*
+
+</div>
+
+---
+
+<div align="center">
+  <sub><em>"What is heart? If I rip open that chest of yours, will I see it there?" — Ulquiorra Cifer</em></sub>
+</div>

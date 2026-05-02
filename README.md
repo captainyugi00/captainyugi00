@@ -6,7 +6,7 @@
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1500&color=34D399&center=true&vCenter=true&width=620&lines=Self-taught+builder.;AI+products%2C+automation%2C+and+the+things+in+between.;Founder+of+Inoue+AI.;What+is+heart%3F+%E2%80%94+Ulquiorra" alt="tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1500&color=34D399&center=true&vCenter=true&width=620&lines=Self-taught+builder.;Building+AI+products+and+deep+automation.;Founder+of+Inoue+AI.;Why+do+you+choose+to+be+ordinary%3F+%E2%80%94+Aizen" alt="tagline" />
 
 </div>
 
@@ -99,5 +99,5 @@ I took those skills upstream. Today I co-build **Inoue AI**, a production studio
 ---
 
 <div align="center">
-  <sub><em>"What is heart? If I rip open that chest of yours, will I see it there?" — Ulquiorra Cifer</em></sub>
+  <sub><em>"Tell me, why do you choose to be ordinary?" — Sōsuke Aizen</em></sub>
 </div>

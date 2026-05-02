@@ -70,12 +70,15 @@ I took those skills upstream. Today I co-build **Inoue AI**, a production studio
 
 <div align="center">
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=captainyugi00&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=captainyugi00&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
-</a>
+<img src="https://raw.githubusercontent.com/captainyugi00/captainyugi00/main/github-metrics.svg" alt="metrics" />
+
+<br /><br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/captainyugi00/captainyugi00/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/captainyugi00/captainyugi00/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/captainyugi00/captainyugi00/output/github-snake.svg" />
+</picture>
 
 </div>
 

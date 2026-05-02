@@ -47,10 +47,12 @@ jobs:
           plugin_languages_analysis_timeout_repositories: 30
 
           plugin_lines: yes
+          plugin_lines_sections: base, repositories, history
+          plugin_lines_repositories_limit: 0
           plugin_lines_history_limit: 0
 
           plugin_stars: yes
-          plugin_stars_limit: 0
+          plugin_stars_limit: 100
 
           plugin_achievements: yes
           plugin_achievements_threshold: C
@@ -64,6 +66,9 @@ jobs:
 
           plugin_notable: yes
           plugin_notable_indepth: yes
+          plugin_notable_filter: all
+          plugin_notable_self: yes
+          plugin_notable_types: commit, pull_request, issue
 
           plugin_followup: yes
           plugin_followup_sections: repositories, user

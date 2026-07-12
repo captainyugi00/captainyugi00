@@ -8,33 +8,34 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
-  github-metrics:
+  telemetry:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
-      - name: Personal metrics
-        uses: lowlighter/metrics@latest
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: captainyugi00
-          template: terminal
-          base: header
-          config_timezone: Europe/Rome
-          config_padding: 0, 8 + 11%
+          node-version: 20
 
-          repositories: 100
+      - name: Generate telemetry card
+        run: node .github/scripts/telemetry.mjs
+        env:
+          GH_TOKEN: ${{ secrets.METRICS_TOKEN || github.token }}
 
-          commits_authoring: paolo, vergani, lilyoungpolo, captainyugi00, @users.noreply.github.com
-
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
-
-          plugin_languages: yes
-          plugin_languages_details: percentage
-          plugin_languages_sections: most-used
-          plugin_languages_limit: 8
-          plugin_languages_threshold: 0%
-          plugin_languages_other: yes
-          plugin_languages_colors: github
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add github-metrics.svg
+          if git diff --cached --quiet; then
+            echo "github-metrics.svg unchanged — nothing to commit"
+          else
+            git commit -m "telemetry: daily sync [skip ci]"
+            git push
+          fi

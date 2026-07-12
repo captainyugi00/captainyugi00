@@ -1,4 +1,4 @@
-<div align="center"><a href="https://www.inoue.app/"><picture><source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/captainyugi00/captainyugi00/main/assets/hero-terminal-mobile.svg?v=1"><img src="https://raw.githubusercontent.com/captainyugi00/captainyugi00/main/assets/hero-terminal.svg?v=1" width="100%" alt="Paolo Vergani — founder of Inoue AI. Terminal session: TLS 1.3 handshake, JA3 verified, fingerprint human."></picture></a></div>
+<div align="center"><a href="https://www.inoue.app/"><picture><source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/captainyugi00/captainyugi00/main/assets/hero-terminal-mobile.svg?v=1"><img src="https://raw.githubusercontent.com/captainyugi00/captainyugi00/main/assets/hero-terminal.svg?v=2" width="100%" alt="Paolo Vergani — founder of Inoue AI. Terminal session: TLS 1.3 handshake, JA3 verified, fingerprint human."></picture></a></div>
 
 <br>
 
@@ -20,7 +20,7 @@ I started in the sneaker-bot era, reverse-engineering the anti-bot layer most de
 
 #### `▸ FLAGSHIP // 02`
 
-<a href="https://www.inoue.app/"><img src="https://raw.githubusercontent.com/captainyugi00/captainyugi00/main/assets/card-inoue.svg?v=1" width="100%" alt="Inoue AI — production AI studio for creators and agencies"></a>
+<a href="https://www.inoue.app/"><picture><source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/captainyugi00/captainyugi00/main/assets/card-inoue-mobile.svg?v=2"><img src="https://raw.githubusercontent.com/captainyugi00/captainyugi00/main/assets/card-inoue.svg?v=1" width="100%" alt="Inoue AI — production AI studio for creators and agencies"></picture></a>
 
 **[Inoue AI](https://www.inoue.app/)** — AI generation, scheduling, captioning, analytics and worker orchestration in one platform · companion: **[Inoue Vault](https://vault.inoue.app/)**
 
@@ -28,20 +28,20 @@ I started in the sneaker-bot era, reverse-engineering the anti-bot layer most de
 
 #### `▸ THE EDGE // 03`
 
-<img src="https://raw.githubusercontent.com/captainyugi00/captainyugi00/main/assets/edge-inspector.svg?v=1" width="100%" alt="Packet inspector: ClientHello JA3, custom HTTP/2 SETTINGS, verdict handshake clean">
+<picture><source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/captainyugi00/captainyugi00/main/assets/edge-inspector-mobile.svg?v=2"><img src="https://raw.githubusercontent.com/captainyugi00/captainyugi00/main/assets/edge-inspector.svg?v=1" width="100%" alt="Packet inspector: ClientHello JA3, custom HTTP/2 SETTINGS, verdict handshake clean"></picture>
 
-- ▸ TLS fingerprinting & JA3/JA4 — evasion and detection research from both sides of the wire
-- ▸ Custom HTTP/2 stacks — frame ordering, SETTINGS tuning, protocol internals from scratch
-- ▸ Sneaker-bot era roots — years of cat-and-mouse against production anti-bot systems
+- TLS fingerprinting & JA3/JA4 — evasion and detection research from both sides of the wire
+- Custom HTTP/2 stacks — frame ordering, SETTINGS tuning, protocol internals from scratch
+- Sneaker-bot era roots — years of cat-and-mouse against production anti-bot systems
 
 <br>
 
 #### `▸ NOW // 04`
 
-- ▸ Shipping **[Inoue AI](https://www.inoue.app/)** — the production studio, end to end
-- ▸ Custom LoRA training for character & style consistency
-- ▸ AI video pipelines — face swap, motion, captioning
-- ▸ Going deeper on HTTP/2 & TLS internals
+- Shipping **[Inoue AI](https://www.inoue.app/)** — the production studio, end to end
+- Custom LoRA training for character & style consistency
+- AI video pipelines — face swap, motion, captioning
+- Going deeper on HTTP/2 & TLS internals
 
 <br>
 
@@ -62,7 +62,7 @@ I started in the sneaker-bot era, reverse-engineering the anti-bot layer most de
 
 #### `▸ STACK // 06`
 
-| | |
+| domain | stack |
 |---|---|
 | **Languages** | `Python` `Go` `TypeScript` |
 | **Web** | `React` `Next.js` `Node` `Tailwind` |
@@ -76,20 +76,19 @@ I started in the sneaker-bot era, reverse-engineering the anti-bot layer most de
 
 contribution traffic — auto-generated, refreshed daily
 
-<div align="center"><img src="https://raw.githubusercontent.com/captainyugi00/captainyugi00/main/github-metrics.svg" width="100%" alt="GitHub telemetry"></div>
-<br>
+<div align="center"><img src="https://raw.githubusercontent.com/captainyugi00/captainyugi00/main/github-metrics.svg?v=2" width="100%" alt="GitHub telemetry"></div>
 <div align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/captainyugi00/captainyugi00/output/github-snake-dark.svg"><img src="https://raw.githubusercontent.com/captainyugi00/captainyugi00/output/github-snake.svg" width="100%" alt="contribution traffic"></picture></div>
 
 <br>
 
 #### `▸ CONTACT // 08`
 
-<p align="center"><a href="https://linkedin.com/in/paolo-vergani-1082ab22b"><code>▸ linkedin ↗</code></a>&nbsp;&nbsp;<a href="https://twitter.com/lilyoungpolo1"><code>▸ x/twitter ↗</code></a>&nbsp;&nbsp;<a href="mailto:paolovergani003@gmail.com"><code>▸ email ↗</code></a></p>
+<p align="center"><a href="https://linkedin.com/in/paolo-vergani-1082ab22b"><img src="https://raw.githubusercontent.com/captainyugi00/captainyugi00/main/assets/chip-linkedin.svg?v=2" height="40" alt="LinkedIn"></a>&nbsp;<a href="https://twitter.com/lilyoungpolo1"><img src="https://raw.githubusercontent.com/captainyugi00/captainyugi00/main/assets/chip-x.svg?v=2" height="40" alt="X / Twitter"></a>&nbsp;<a href="mailto:paolovergani003@gmail.com"><img src="https://raw.githubusercontent.com/captainyugi00/captainyugi00/main/assets/chip-email.svg?v=2" height="40" alt="Email"></a></p>
 
 <p align="center">open to AI infra collabs, consulting, and interesting problems</p>
 
 <br>
 
-<div align="center"><img src="https://raw.githubusercontent.com/captainyugi00/captainyugi00/main/assets/footer-motd.svg?v=1" width="100%" alt="motd: Tell me, why do you choose to be ordinary? — Sōsuke Aizen"></div>
+<div align="center"><picture><source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/captainyugi00/captainyugi00/main/assets/footer-motd-mobile.svg?v=2"><img src="https://raw.githubusercontent.com/captainyugi00/captainyugi00/main/assets/footer-motd.svg?v=2" width="100%" alt="motd: Tell me, why do you choose to be ordinary? — Sōsuke Aizen"></picture></div>
 
 <div align="center"><sub>© paolo vergani · a self-contained SVG system — no external services · session logged from Europe/Rome</sub></div>

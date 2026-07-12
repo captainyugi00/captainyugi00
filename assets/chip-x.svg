@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 170 44" width="170" height="44" role="img" aria-label="x / twitter">
+<title>x / twitter</title>
+<desc>Contact chip: x / twitter. Terminal-styled pill with emerald accents.</desc>
+<defs>
+<filter id="chipx-sh" x="-15%" y="-45%" width="130%" height="190%">
+<feGaussianBlur in="SourceAlpha" stdDeviation="3"/>
+<feOffset dy="2" result="chipx-o"/>
+<feFlood flood-color="#000000" flood-opacity="0.18"/>
+<feComposite in2="chipx-o" operator="in"/>
+<feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+</defs>
+<rect x="6.5" y="6.5" width="157" height="31" rx="8" fill="#0D1420" stroke="#263042" stroke-width="1" filter="url(#chipx-sh)"/>
+<text x="85" y="26" text-anchor="middle" font-family="ui-monospace,'SF Mono','Cascadia Mono','JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" letter-spacing="0.5" fill="#C9D1D9"><tspan font-size="11" fill="#34D399">&#9656;</tspan><tspan dx="7">x / twitter</tspan><tspan dx="7" font-size="11" fill="#34D399">&#8599;</tspan></text>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 125" width="900" height="125" role="img" aria-label="&quot;Tell me, why do you choose to be ordinary?&quot; — Sōsuke Aizen">
+<title>operator@inoue — /etc/motd</title>
+<desc>Terminal footer strip. A shell prompt types "cat /etc/motd" and the message of the day fades in word by word: "Tell me, why do you choose to be ordinary?" — Sōsuke Aizen. A block cursor blinks at the end.</desc>
+<style>
+.motd-t{font-family:ui-monospace,'SF Mono','Cascadia Mono','JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace}
+.motd-c{animation:motd-in .5s steps(1,start) both}
+.motd-w{animation:motd-in .3s ease both}
+.motd-k{font-style:normal;animation:motd-in .3s ease 3.64s both,motd-blink 1.06s steps(1,end) 4s infinite}
+@keyframes motd-in{from{opacity:0}to{opacity:1}}
+@keyframes motd-blink{50%{opacity:0}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<defs>
+<filter id="motd-sh" x="-5%" y="-45%" width="110%" height="190%">
+<feGaussianBlur in="SourceAlpha" stdDeviation="8"/>
+<feOffset dy="4" result="motd-o"/>
+<feFlood flood-color="#000000" flood-opacity="0.2"/>
+<feComposite in2="motd-o" operator="in"/>
+<feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+</defs>
+<rect x="14" y="14" width="872" height="97" rx="8" fill="#0A0E16" stroke="#263042" stroke-width="1" filter="url(#motd-sh)"/>
+<text class="motd-t" x="139" y="52" font-size="13" fill="#6E7681"><tspan class="motd-c" style="animation-delay:.4s">o</tspan><tspan class="motd-c" style="animation-delay:.445s">p</tspan><tspan class="motd-c" style="animation-delay:.49s">e</tspan><tspan class="motd-c" style="animation-delay:.535s">r</tspan><tspan class="motd-c" style="animation-delay:.58s">a</tspan><tspan class="motd-c" style="animation-delay:.625s">t</tspan><tspan class="motd-c" style="animation-delay:.67s">o</tspan><tspan class="motd-c" style="animation-delay:.715s">r</tspan><tspan class="motd-c" style="animation-delay:.76s">@</tspan><tspan class="motd-c" style="animation-delay:.805s">i</tspan><tspan class="motd-c" style="animation-delay:.85s">n</tspan><tspan class="motd-c" style="animation-delay:.895s">o</tspan><tspan class="motd-c" style="animation-delay:.94s">u</tspan><tspan class="motd-c" style="animation-delay:.985s">e</tspan><tspan class="motd-c" style="animation-delay:1.03s">:</tspan><tspan class="motd-c" style="animation-delay:1.075s">~</tspan><tspan class="motd-c" style="animation-delay:1.12s"> </tspan><tspan class="motd-c" style="animation-delay:1.165s">$</tspan><tspan class="motd-c" style="animation-delay:1.21s"> </tspan><tspan class="motd-c" style="animation-delay:1.255s">c</tspan><tspan class="motd-c" style="animation-delay:1.3s">a</tspan><tspan class="motd-c" style="animation-delay:1.345s">t</tspan><tspan class="motd-c" style="animation-delay:1.39s"> </tspan><tspan class="motd-c" style="animation-delay:1.435s">/</tspan><tspan class="motd-c" style="animation-delay:1.48s">e</tspan><tspan class="motd-c" style="animation-delay:1.525s">t</tspan><tspan class="motd-c" style="animation-delay:1.57s">c</tspan><tspan class="motd-c" style="animation-delay:1.615s">/</tspan><tspan class="motd-c" style="animation-delay:1.66s">m</tspan><tspan class="motd-c" style="animation-delay:1.705s">o</tspan><tspan class="motd-c" style="animation-delay:1.75s">t</tspan><tspan class="motd-c" style="animation-delay:1.795s">d</tspan></text>
+<text class="motd-t" x="139" y="79" font-size="17" font-style="italic" fill="#C9D1D9"><tspan class="motd-w" style="animation-delay:2.2s">"Tell </tspan><tspan class="motd-w" style="animation-delay:2.32s">me, </tspan><tspan class="motd-w" style="animation-delay:2.44s">why </tspan><tspan class="motd-w" style="animation-delay:2.56s">do </tspan><tspan class="motd-w" style="animation-delay:2.68s">you </tspan><tspan class="motd-w" style="animation-delay:2.8s">choose </tspan><tspan class="motd-w" style="animation-delay:2.92s">to </tspan><tspan class="motd-w" style="animation-delay:3.04s">be </tspan><tspan class="motd-w" style="animation-delay:3.16s">ordinary?" </tspan><tspan class="motd-w" fill="#34D399" style="animation-delay:3.28s">— </tspan><tspan class="motd-w" fill="#34D399" style="animation-delay:3.4s">Sōsuke </tspan><tspan class="motd-w" fill="#34D399" style="animation-delay:3.52s">Aizen </tspan><tspan class="motd-k" fill="#34D399">▊</tspan></text>
+</svg>

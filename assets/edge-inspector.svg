@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 150" width="900" height="150" role="img">
+<title>~/edge &#8212; packet inspector</title>
+<desc>Terminal packet-inspector card. Three captured frames: CLIENT_HELLO with JA3 fingerprint and GREASE on, HTTP/2 SETTINGS with custom frame order, and a verdict of handshake clean, allowed through. A scan highlight steps across the rows.</desc>
+<style>
+text{font-family:ui-monospace,'SF Mono','Cascadia Mono','JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace}
+#edge-tick{animation:edge-pulse 6s linear infinite}
+@keyframes edge-pulse{0%,49.9%{fill-opacity:1}50%{fill-opacity:.5}64%,100%{fill-opacity:1}}
+@media (prefers-reduced-motion: reduce){
+* {animation:none !important}
+#edge-scan{display:none}
+}
+</style>
+<defs>
+<filter id="edge-shadow" x="-6%" y="-36%" width="112%" height="184%">
+<feDropShadow dx="0" dy="6" stdDeviation="12" flood-color="#000000" flood-opacity="0.22"/>
+</filter>
+</defs>
+
+<!-- card -->
+<rect x="14" y="14" width="872" height="122" rx="10" fill="#0D1420" filter="url(#edge-shadow)"/>
+
+<!-- capture rows: zebra fill -->
+<rect x="15" y="46" width="870" height="26" fill="#FFFFFF" fill-opacity="0.03"/>
+<rect x="15" y="98" width="870" height="26" fill="#FFFFFF" fill-opacity="0.03"/>
+
+<!-- scan highlight (one motion): steps row1 -> row2 -> row3, 6s loop -->
+<rect id="edge-scan" x="15" y="98" width="870" height="26" fill="#34D399" fill-opacity="0.06">
+<animate attributeName="y" values="46;72;98;46" calcMode="discrete" dur="6s" repeatCount="indefinite"/>
+</rect>
+
+<!-- header (strict card spec: title only, no counter label, no hairline) -->
+<text x="32" y="37" font-size="12" fill="#6E7681">~/edge &#8212; packet inspector</text>
+
+<!-- rows -->
+<text x="32" y="64" font-size="13" fill="#6E7681">01</text>
+<text x="64" y="64" font-size="13" fill="#C9D1D9">CLIENT_HELLO</text>
+<text x="182" y="64" font-size="13" fill="#C9D1D9">ja3=771,4865-4866-4867...<tspan x="430">grease=ON</tspan></text>
+<text x="32" y="90" font-size="13" fill="#6E7681">02</text>
+<text x="64" y="90" font-size="13" fill="#C9D1D9">SETTINGS</text>
+<text x="182" y="90" font-size="13" fill="#C9D1D9">h2 &#183; HEADER_TABLE_SIZE=65536 &#183; frame order: custom</text>
+<text x="32" y="116" font-size="13" fill="#6E7681">03</text>
+<text x="64" y="116" font-size="13" fill="#C9D1D9">VERDICT</text>
+<text x="182" y="116" font-size="13" fill="#34D399">handshake clean &#8212; allowed through <tspan id="edge-tick">&#10003;</tspan></text>
+
+<!-- border on top for a crisp 1px edge -->
+<rect x="14.5" y="14.5" width="871" height="121" rx="10" fill="none" stroke="#263042" stroke-width="1"/>
+</svg>

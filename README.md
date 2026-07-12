@@ -1,103 +1,95 @@
-<div align="center">
+<div align="center"><a href="https://www.inoue.app/"><picture><source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/captainyugi00/captainyugi00/main/assets/hero-terminal-mobile.svg?v=1"><img src="https://raw.githubusercontent.com/captainyugi00/captainyugi00/main/assets/hero-terminal.svg?v=1" width="100%" alt="Paolo Vergani — founder of Inoue AI. Terminal session: TLS 1.3 handshake, JA3 verified, fingerprint human."></picture></a></div>
 
-# Paolo Vergani
+<br>
 
-**Founder · Engineer · Creator**
+#### `▸ BRIEF // 01`
 
-<br />
+```http
+HTTP/2 200 OK
+server: self-taught
+x-founder: Inoue AI (inoue.app)
+x-edge: tls-fp; ja3; ja4; custom-http2
+x-focus: lora; ai-video; diffusion
+x-location: Europe/Rome
+x-status: building
+```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1500&color=34D399&center=true&vCenter=true&width=620&lines=Self-taught+builder.;Building+AI+products+and+deep+automation.;Founder+of+Inoue+AI.;Why+do+you+choose+to+be+ordinary%3F+%E2%80%94+Aizen" alt="tagline" />
+I started in the sneaker-bot era, reverse-engineering the anti-bot layer most developers never touch — TLS fingerprints, JA3/JA4, custom HTTP/2 stacks built frame by frame. I took that depth upstream into AI media: LoRA training, video pipelines, diffusion tooling end to end. Today I'm building **[Inoue AI](https://www.inoue.app/)** — a production AI studio for creators and agencies.
 
-</div>
+<br>
 
----
+#### `▸ FLAGSHIP // 02`
 
-## About
+<a href="https://www.inoue.app/"><img src="https://raw.githubusercontent.com/captainyugi00/captainyugi00/main/assets/card-inoue.svg?v=1" width="100%" alt="Inoue AI — production AI studio for creators and agencies"></a>
 
-I'm a self-taught builder. I cut my teeth in HTTP automation — sneaker bots, reseller tooling, and anti-bot reverse-engineering. That world taught the deep stuff most developers never touch: TLS fingerprinting, JA3/JA4, custom HTTP/2 stacks, and the constant cat-and-mouse of evading detection systems built by people whose entire job is to catch you.
+**[Inoue AI](https://www.inoue.app/)** — AI generation, scheduling, captioning, analytics and worker orchestration in one platform · companion: **[Inoue Vault](https://vault.inoue.app/)**
 
-I took those skills upstream. Today I co-build **Inoue AI**, a production studio for AI creators. Earlier, I operated inside companies like **WeWill** and **Elmec**. The rest of my time sits at the intersection of shipping AI products end-to-end and going deep on AI media generation — LoRA training, video pipelines, and the rapidly moving frontier of generative models.
+<br>
 
----
+#### `▸ THE EDGE // 03`
 
-## Currently building
+<img src="https://raw.githubusercontent.com/captainyugi00/captainyugi00/main/assets/edge-inspector.svg?v=1" width="100%" alt="Packet inspector: ClientHello JA3, custom HTTP/2 SETTINGS, verdict handshake clean">
 
-- 🛠 **Inoue AI** — production AI studio for creators · [inoue.app](https://www.inoue.app/)
-- 🧠 Training **custom LoRAs** for character & style consistency
-- 🎬 Pushing **AI video pipelines** further — face swap, motion, captioning
-- 🔬 Going deeper on **TLS fingerprinting & HTTP/2 internals**
+- ▸ TLS fingerprinting & JA3/JA4 — evasion and detection research from both sides of the wire
+- ▸ Custom HTTP/2 stacks — frame ordering, SETTINGS tuning, protocol internals from scratch
+- ▸ Sneaker-bot era roots — years of cat-and-mouse against production anti-bot systems
 
----
+<br>
 
-## Featured
+#### `▸ NOW // 04`
 
-> ### [Inoue AI](https://www.inoue.app/)
->
-> Production AI studio for creators and agencies. One platform for AI generation, scheduling, captioning, analytics, and worker orchestration.
->
-> Companion product: **[Inoue Vault](https://vault.inoue.app/)** — asset & workflow vault for creator stacks.
->
-> `React 19` · `TypeScript` · `Python` · `Go` · `Postgres` · `Worker orchestration`
+- ▸ Shipping **[Inoue AI](https://www.inoue.app/)** — the production studio, end to end
+- ▸ Custom LoRA training for character & style consistency
+- ▸ AI video pipelines — face swap, motion, captioning
+- ▸ Going deeper on HTTP/2 & TLS internals
 
----
+<br>
 
-## Past work
+#### `▸ PRIOR OPS // 05`
 
-- **[WeWill S.r.l.](https://www.wewill.ai/)** — past co-venture & role
-- **[ClipVision](https://www.clipvision.ai/)** — AI video tool
-- **[SniperAIO](https://x.com/Sniper_AIO)** — release & automation suite
-- **[DemonSolutions](https://www.demonsolutions.io/)** — automation tooling
-- **Phasma AIO** — release / automation tooling
-- **Elmec Informatica S.p.A.** — past enterprise role
+<details><summary>▸ prior operations — 6 closed sessions</summary>
 
----
+- **[WeWill S.r.l.](https://wewill.ai)** — AI product development
+- **[ClipVision](https://clipvision.ai)** — AI video tooling
+- **SniperAIO** — automation platform, sneaker-bot era
+- **DemonSolutions** — anti-bot & automation tooling
+- **Phasma AIO** — automation platform
+- **Elmec Informatica** — enterprise IT
 
-## Tech stack
+</details>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,go,ts,react,nextjs,nodejs,pytorch,docker,postgres,redis&theme=dark" alt="stack" />
-</p>
+<br>
+
+#### `▸ STACK // 06`
 
 | | |
 |---|---|
-| **Languages** | Python · Go · TypeScript |
-| **Web** | React · Next.js · Node.js · Tailwind |
-| **AI / ML** | PyTorch · LoRA training · Diffusion / video generation |
-| **Infra** | Docker · Postgres · Redis · Caddy · Cloudflare |
-| **Deep tech** | HTTP/2 · TLS fingerprinting · anti-bot research |
+| **Languages** | `Python` `Go` `TypeScript` |
+| **Web** | `React` `Next.js` `Node` `Tailwind` |
+| **AI · ML** | `PyTorch` `LoRA training` `Diffusion` `AI video` |
+| **Infra** | `Docker` `Postgres` `Redis` `Caddy` `Cloudflare` |
+| **Deep tech** | `HTTP/2 internals` `TLS fingerprinting` `Anti-bot research` |
 
----
+<br>
 
-<div align="center">
+#### `▸ TELEMETRY // 07`
 
-<img src="https://raw.githubusercontent.com/captainyugi00/captainyugi00/main/github-metrics.svg" alt="metrics" />
+contribution traffic — auto-generated, refreshed daily
 
-<br /><br />
+<div align="center"><img src="https://raw.githubusercontent.com/captainyugi00/captainyugi00/main/github-metrics.svg" width="100%" alt="GitHub telemetry"></div>
+<br>
+<div align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/captainyugi00/captainyugi00/output/github-snake-dark.svg"><img src="https://raw.githubusercontent.com/captainyugi00/captainyugi00/output/github-snake.svg" width="100%" alt="contribution traffic"></picture></div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/captainyugi00/captainyugi00/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/captainyugi00/captainyugi00/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/captainyugi00/captainyugi00/output/github-snake.svg" />
-</picture>
+<br>
 
-</div>
+#### `▸ CONTACT // 08`
 
----
+<p align="center"><a href="https://linkedin.com/in/paolo-vergani-1082ab22b"><code>▸ linkedin ↗</code></a>&nbsp;&nbsp;<a href="https://twitter.com/lilyoungpolo1"><code>▸ x/twitter ↗</code></a>&nbsp;&nbsp;<a href="mailto:paolovergani003@gmail.com"><code>▸ email ↗</code></a></p>
 
-## Connect & collab
+<p align="center">open to AI infra collabs, consulting, and interesting problems</p>
 
-<div align="center">
+<br>
 
-[LinkedIn](https://linkedin.com/in/paolo-vergani-1082ab22b) · [Twitter / X](https://twitter.com/lilyoungpolo1) · [paolovergani003@gmail.com](mailto:paolovergani003@gmail.com)
+<div align="center"><img src="https://raw.githubusercontent.com/captainyugi00/captainyugi00/main/assets/footer-motd.svg?v=1" width="100%" alt="motd: Tell me, why do you choose to be ordinary? — Sōsuke Aizen"></div>
 
-<br />
-
-*Open to AI infra collabs, consulting, and interesting problems.*
-
-</div>
-
----
-
-<div align="center">
-  <sub><em>"Tell me, why do you choose to be ordinary?" — Sōsuke Aizen</em></sub>
-</div>
+<div align="center"><sub>© paolo vergani · a self-contained SVG system — no external services · session logged from Europe/Rome</sub></div>

@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" width="900" height="300" role="img" aria-label="GitHub telemetry for captainyugi00: 3,665 contributions in the last year">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" width="900" height="300" role="img" aria-label="GitHub telemetry for captainyugi00: 3,757 contributions in the last year">
 <style>
 .tm-t{font-family:ui-monospace,'SF Mono','Cascadia Mono','JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace}
-@keyframes tm-draw{from{stroke-dashoffset:856}}
+@keyframes tm-draw{from{stroke-dashoffset:860}}
 @keyframes tm-fade{from{opacity:0}}
 @keyframes tm-blink{0%,100%{opacity:1}50%{opacity:0}}
 #tm-spark-line{animation:tm-draw 1.4s ease-out .3s both}
@@ -33,13 +33,13 @@
 <rect x="38" y="135" width="400" height="22" rx="3" fill="#FFFFFF" fill-opacity="0.03"/>
 <text class="tm-t" x="46" y="78" font-size="14" fill="#8B949E">contributions</text>
 <text class="tm-t" x="168" y="78" font-size="14" fill="#6E7681">:</text>
-<text class="tm-t" x="184" y="78" font-size="14" fill="#E6EDF3"><tspan fill="#E6EDF3">3,665</tspan><tspan fill="#8B949E"> (last 365d)</tspan></text>
+<text class="tm-t" x="184" y="78" font-size="14" fill="#E6EDF3"><tspan fill="#E6EDF3">3,757</tspan><tspan fill="#8B949E"> (last 365d)</tspan></text>
 <text class="tm-t" x="46" y="102" font-size="14" fill="#8B949E">streak</text>
 <text class="tm-t" x="168" y="102" font-size="14" fill="#6E7681">:</text>
-<text class="tm-t" x="184" y="102" font-size="14" fill="#E6EDF3"><tspan fill="#E6EDF3">15d</tspan><tspan fill="#8B949E"> current</tspan><tspan fill="#6E7681"> · </tspan><tspan fill="#E6EDF3">33d</tspan><tspan fill="#8B949E"> best</tspan></text>
+<text class="tm-t" x="184" y="102" font-size="14" fill="#E6EDF3"><tspan fill="#E6EDF3">16d</tspan><tspan fill="#8B949E"> current</tspan><tspan fill="#6E7681"> · </tspan><tspan fill="#E6EDF3">33d</tspan><tspan fill="#8B949E"> best</tspan></text>
 <text class="tm-t" x="46" y="126" font-size="14" fill="#8B949E">commits</text>
 <text class="tm-t" x="168" y="126" font-size="14" fill="#6E7681">:</text>
-<text class="tm-t" x="184" y="126" font-size="14" fill="#E6EDF3"><tspan fill="#E6EDF3">2,514</tspan><tspan fill="#8B949E"> (yr)</tspan></text>
+<text class="tm-t" x="184" y="126" font-size="14" fill="#E6EDF3"><tspan fill="#E6EDF3">2,586</tspan><tspan fill="#8B949E"> (yr)</tspan></text>
 <text class="tm-t" x="46" y="150" font-size="14" fill="#8B949E">stars · repos</text>
 <text class="tm-t" x="168" y="150" font-size="14" fill="#6E7681">:</text>
 <text class="tm-t" x="184" y="150" font-size="14" fill="#E6EDF3"><tspan fill="#E6EDF3">6</tspan><tspan fill="#6E7681"> · </tspan><tspan fill="#E6EDF3">19</tspan></text>
@@ -76,9 +76,9 @@
 
 <!-- bottom strip: 52-week contribution sparkline -->
 <line x1="46" y1="256" x2="854" y2="256" stroke="#1C2433" stroke-width="1"/>
-<polygon id="tm-spark-area" points="46,254.75 61.84,254.92 77.69,254.42 93.53,253.26 109.37,253.92 125.22,255.58 141.06,256 156.9,256 172.75,255.92 188.59,255.75 204.43,256 220.27,256 236.12,256 251.96,255.83 267.8,255.83 283.65,255.58 299.49,255.25 315.33,253.26 331.18,255.5 347.02,251.93 362.86,254.42 378.71,255.5 394.55,255.75 410.39,255.58 426.24,254.5 442.08,249.6 457.92,251.18 473.76,250.6 489.61,243.86 505.45,242.28 521.29,249.02 537.14,232.8 552.98,235.54 568.82,218 584.67,234.88 600.51,248.27 616.35,253.51 632.2,252.09 648.04,253.42 663.88,251.51 679.73,244.44 695.57,251.34 711.41,247.93 727.25,240.12 743.1,248.27 758.94,243.61 774.78,240.45 790.63,249.85 806.47,248.85 822.31,253.67 838.16,251.18 854,244.28 854,256 46,256" fill="rgba(52,211,153,0.14)"/>
-<polyline id="tm-spark-line" points="46,254.75 61.84,254.92 77.69,254.42 93.53,253.26 109.37,253.92 125.22,255.58 141.06,256 156.9,256 172.75,255.92 188.59,255.75 204.43,256 220.27,256 236.12,256 251.96,255.83 267.8,255.83 283.65,255.58 299.49,255.25 315.33,253.26 331.18,255.5 347.02,251.93 362.86,254.42 378.71,255.5 394.55,255.75 410.39,255.58 426.24,254.5 442.08,249.6 457.92,251.18 473.76,250.6 489.61,243.86 505.45,242.28 521.29,249.02 537.14,232.8 552.98,235.54 568.82,218 584.67,234.88 600.51,248.27 616.35,253.51 632.2,252.09 648.04,253.42 663.88,251.51 679.73,244.44 695.57,251.34 711.41,247.93 727.25,240.12 743.1,248.27 758.94,243.61 774.78,240.45 790.63,249.85 806.47,248.85 822.31,253.67 838.16,251.18 854,244.28" fill="none" stroke="#34D399" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="856" stroke-dashoffset="0"/>
-<text class="tm-t" x="46" y="276" font-size="10.5" fill="#6E7681">3,665 contributions · last sync 2026-07-24 · auto-refreshed daily</text>
+<polygon id="tm-spark-area" points="46,254.75 61.84,254.92 77.69,254.42 93.53,253.26 109.37,253.92 125.22,255.58 141.06,256 156.9,256 172.75,255.92 188.59,255.75 204.43,256 220.27,256 236.12,256 251.96,255.83 267.8,255.83 283.65,255.58 299.49,255.25 315.33,253.26 331.18,255.5 347.02,251.93 362.86,254.42 378.71,255.5 394.55,255.75 410.39,255.58 426.24,254.5 442.08,249.6 457.92,251.18 473.76,250.6 489.61,243.86 505.45,242.28 521.29,249.02 537.14,232.8 552.98,235.54 568.82,218 584.67,234.88 600.51,248.27 616.35,253.51 632.2,250.51 648.04,253.42 663.88,251.34 679.73,243.78 695.57,251.34 711.41,247.93 727.25,239.7 743.1,248.02 758.94,243.61 774.78,240.45 790.63,249.85 806.47,248.85 822.31,253.67 838.16,251.09 854,239.79 854,256 46,256" fill="rgba(52,211,153,0.14)"/>
+<polyline id="tm-spark-line" points="46,254.75 61.84,254.92 77.69,254.42 93.53,253.26 109.37,253.92 125.22,255.58 141.06,256 156.9,256 172.75,255.92 188.59,255.75 204.43,256 220.27,256 236.12,256 251.96,255.83 267.8,255.83 283.65,255.58 299.49,255.25 315.33,253.26 331.18,255.5 347.02,251.93 362.86,254.42 378.71,255.5 394.55,255.75 410.39,255.58 426.24,254.5 442.08,249.6 457.92,251.18 473.76,250.6 489.61,243.86 505.45,242.28 521.29,249.02 537.14,232.8 552.98,235.54 568.82,218 584.67,234.88 600.51,248.27 616.35,253.51 632.2,250.51 648.04,253.42 663.88,251.34 679.73,243.78 695.57,251.34 711.41,247.93 727.25,239.7 743.1,248.02 758.94,243.61 774.78,240.45 790.63,249.85 806.47,248.85 822.31,253.67 838.16,251.09 854,239.79" fill="none" stroke="#34D399" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="860" stroke-dashoffset="0"/>
+<text class="tm-t" x="46" y="276" font-size="10.5" fill="#6E7681">3,757 contributions · last sync 2026-07-25 · auto-refreshed daily</text>
 </g>
 
 <!-- border -->

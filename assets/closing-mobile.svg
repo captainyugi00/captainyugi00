@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 196 44" width="196" height="44" role="img" aria-labelledby="t d">
-<title id="t">Email</title>
-<desc id="d">Link to Email.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 420 128" width="420" height="128" role="img" aria-labelledby="t d">
+<title id="t">Closing note</title>
+<desc id="d">A pull quote: "Tell me, why do you choose to be ordinary?" attributed to Sosuke Aizen.</desc>
 <style>
 text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,'Noto Sans',sans-serif}
 .m{font-family:ui-monospace,'SF Mono','Cascadia Mono','JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace}
@@ -20,10 +20,12 @@ text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica N
 <stop offset="0" stop-color="#34D399" stop-opacity="0"/><stop offset="0.5" stop-color="#34D399" stop-opacity="0.11"/><stop offset="1" stop-color="#34D399" stop-opacity="0"/>
 <animate attributeName="x1" values="-0.35;1" dur="11s" repeatCount="indefinite"/><animate attributeName="x2" values="-0.05;1.3" dur="11s" repeatCount="indefinite"/>
 </linearGradient>
-<path id="i-gmail" d="M24 5.457v13.909c0 .904-.732 1.636-1.636 1.636h-3.819V11.73L12 16.64l-6.545-4.91v9.273H1.636A1.636 1.636 0 0 1 0 19.366V5.457c0-2.023 2.309-3.178 3.927-1.964L5.455 4.64 12 9.548l6.545-4.91 1.528-1.145C21.69 2.28 24 3.434 24 5.457z"/>
+
 </defs>
-<rect x="1" y="1" width="194" height="42" rx="12" fill="#0E1420"/><use href="#i-gmail" xlink:href="#i-gmail" transform="translate(20 14) scale(0.667)" fill="#ed5c4f"/>
-<text class="m" x="46" y="27" font-size="12.5" fill="#C7D0DA">Email</text>
-<text class="m" x="176" y="27" font-size="12" fill="#6B7684" text-anchor="end">&#8599;</text>
-<rect x="1.5" y="1.5" width="193" height="41" rx="12" fill="none" stroke="#242E3E" stroke-width="1"/>
+<rect x="6" y="6" width="408" height="116" rx="14" fill="#0E1420" filter="url(#sh)"/>
+<rect x="24" y="30" width="3" height="66" rx="1.5" fill="#34D399"><animate attributeName="height" from="0" to="66" begin="0.3s" dur="0.6s" calcMode="spline" keySplines=".2 .8 .2 1" keyTimes="0;1" fill="freeze"/></rect>
+<text class="fx-i" x="42" y="52" font-size="16" font-style="italic" fill="#C7D0DA" style="animation-delay:0.4s">&#8220;Tell me, why do you choose</text>
+<text class="fx-i" x="42" y="78" font-size="16" font-style="italic" fill="#C7D0DA" style="animation-delay:0.48s">to be ordinary?&#8221;</text>
+<text class="m fx-i" x="42" y="108" font-size="10" letter-spacing="2" fill="#6B7684" text-anchor="start" style="animation-delay:0.6s">S&#332;SUKE AIZEN</text>
+<rect x="6.5" y="6.5" width="407" height="115" rx="14" fill="none" stroke="#242E3E" stroke-width="1"/>
 </svg>

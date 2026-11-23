@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" width="900" height="300" role="img" aria-label="GitHub telemetry for captainyugi00: 8,601 contributions in the last year">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" width="900" height="300" role="img" aria-label="GitHub telemetry for captainyugi00: 8,779 contributions in the last year">
 <style>
 .tm-t{font-family:ui-monospace,'SF Mono','Cascadia Mono','JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace}
-@keyframes tm-draw{from{stroke-dashoffset:865}}
+@keyframes tm-draw{from{stroke-dashoffset:862}}
 @keyframes tm-fade{from{opacity:0}}
 @keyframes tm-blink{0%,100%{opacity:1}50%{opacity:0}}
 #tm-spark-line{animation:tm-draw 1.4s ease-out .3s both}
@@ -33,13 +33,13 @@
 <rect x="38" y="135" width="400" height="22" rx="3" fill="#FFFFFF" fill-opacity="0.03"/>
 <text class="tm-t" x="46" y="78" font-size="14" fill="#8B949E">contributions</text>
 <text class="tm-t" x="168" y="78" font-size="14" fill="#6E7681">:</text>
-<text class="tm-t" x="184" y="78" font-size="14" fill="#E6EDF3"><tspan fill="#E6EDF3">8,601</tspan><tspan fill="#8B949E"> (last 365d)</tspan></text>
+<text class="tm-t" x="184" y="78" font-size="14" fill="#E6EDF3"><tspan fill="#E6EDF3">8,779</tspan><tspan fill="#8B949E"> (last 365d)</tspan></text>
 <text class="tm-t" x="46" y="102" font-size="14" fill="#8B949E">streak</text>
 <text class="tm-t" x="168" y="102" font-size="14" fill="#6E7681">:</text>
-<text class="tm-t" x="184" y="102" font-size="14" fill="#E6EDF3"><tspan fill="#E6EDF3">38d</tspan><tspan fill="#8B949E"> current</tspan><tspan fill="#6E7681"> · </tspan><tspan fill="#E6EDF3">38d</tspan><tspan fill="#8B949E"> best</tspan></text>
+<text class="tm-t" x="184" y="102" font-size="14" fill="#E6EDF3"><tspan fill="#E6EDF3">39d</tspan><tspan fill="#8B949E"> current</tspan><tspan fill="#6E7681"> · </tspan><tspan fill="#E6EDF3">39d</tspan><tspan fill="#8B949E"> best</tspan></text>
 <text class="tm-t" x="46" y="126" font-size="14" fill="#8B949E">commits</text>
 <text class="tm-t" x="168" y="126" font-size="14" fill="#6E7681">:</text>
-<text class="tm-t" x="184" y="126" font-size="14" fill="#E6EDF3"><tspan fill="#E6EDF3">5,285</tspan><tspan fill="#8B949E"> (yr)</tspan></text>
+<text class="tm-t" x="184" y="126" font-size="14" fill="#E6EDF3"><tspan fill="#E6EDF3">5,356</tspan><tspan fill="#8B949E"> (yr)</tspan></text>
 <text class="tm-t" x="46" y="150" font-size="14" fill="#8B949E">stars · repos</text>
 <text class="tm-t" x="168" y="150" font-size="14" fill="#6E7681">:</text>
 <text class="tm-t" x="184" y="150" font-size="14" fill="#E6EDF3"><tspan fill="#E6EDF3">6</tspan><tspan fill="#6E7681"> · </tspan><tspan fill="#E6EDF3">19</tspan></text>
@@ -51,34 +51,34 @@
 <text class="tm-t" x="470" y="64" font-size="11" fill="#6E7681">top languages</text>
 <text class="tm-t" x="470" y="88" font-size="12" fill="#C9D1D9">Go</text>
 <rect x="584" y="81" width="222" height="6" rx="3" fill="#1C2433"/>
-<rect x="584" y="81" width="105" height="6" rx="3" fill="#34D399" fill-opacity="1"/>
-<text class="tm-t" x="854" y="88" font-size="11" fill="#6E7681" text-anchor="end">47.5%</text>
+<rect x="584" y="81" width="101" height="6" rx="3" fill="#34D399" fill-opacity="1"/>
+<text class="tm-t" x="854" y="88" font-size="11" fill="#6E7681" text-anchor="end">45.7%</text>
 <text class="tm-t" x="470" y="108" font-size="12" fill="#C9D1D9">Swift</text>
 <rect x="584" y="101" width="222" height="6" rx="3" fill="#1C2433"/>
-<rect x="584" y="101" width="45" height="6" rx="3" fill="#34D399" fill-opacity="0.85"/>
-<text class="tm-t" x="854" y="108" font-size="11" fill="#6E7681" text-anchor="end">20.3%</text>
+<rect x="584" y="101" width="43" height="6" rx="3" fill="#34D399" fill-opacity="0.85"/>
+<text class="tm-t" x="854" y="108" font-size="11" fill="#6E7681" text-anchor="end">19.5%</text>
 <text class="tm-t" x="470" y="128" font-size="12" fill="#C9D1D9">C#</text>
 <rect x="584" y="121" width="222" height="6" rx="3" fill="#1C2433"/>
-<rect x="584" y="121" width="35" height="6" rx="3" fill="#34D399" fill-opacity="0.7"/>
-<text class="tm-t" x="854" y="128" font-size="11" fill="#6E7681" text-anchor="end">15.9%</text>
+<rect x="584" y="121" width="38" height="6" rx="3" fill="#34D399" fill-opacity="0.7"/>
+<text class="tm-t" x="854" y="128" font-size="11" fill="#6E7681" text-anchor="end">17.2%</text>
 <text class="tm-t" x="470" y="148" font-size="12" fill="#C9D1D9">Python</text>
 <rect x="584" y="141" width="222" height="6" rx="3" fill="#1C2433"/>
-<rect x="584" y="141" width="23" height="6" rx="3" fill="#34D399" fill-opacity="0.55"/>
-<text class="tm-t" x="854" y="148" font-size="11" fill="#6E7681" text-anchor="end">10.2%</text>
+<rect x="584" y="141" width="26" height="6" rx="3" fill="#34D399" fill-opacity="0.55"/>
+<text class="tm-t" x="854" y="148" font-size="11" fill="#6E7681" text-anchor="end">11.5%</text>
 <text class="tm-t" x="470" y="168" font-size="12" fill="#C9D1D9">HTML</text>
 <rect x="584" y="161" width="222" height="6" rx="3" fill="#1C2433"/>
 <rect x="584" y="161" width="9" height="6" rx="3" fill="#34D399" fill-opacity="0.42"/>
-<text class="tm-t" x="854" y="168" font-size="11" fill="#6E7681" text-anchor="end">4.2%</text>
+<text class="tm-t" x="854" y="168" font-size="11" fill="#6E7681" text-anchor="end">4.1%</text>
 <text class="tm-t" x="470" y="188" font-size="12" fill="#C9D1D9">JavaScript</text>
 <rect x="584" y="181" width="222" height="6" rx="3" fill="#1C2433"/>
 <rect x="584" y="181" width="6" height="6" rx="3" fill="#34D399" fill-opacity="0.3"/>
-<text class="tm-t" x="854" y="188" font-size="11" fill="#6E7681" text-anchor="end">1.8%</text>
+<text class="tm-t" x="854" y="188" font-size="11" fill="#6E7681" text-anchor="end">2%</text>
 
 <!-- bottom strip: 52-week contribution sparkline -->
 <line x1="46" y1="256" x2="854" y2="256" stroke="#1C2433" stroke-width="1"/>
-<polygon id="tm-spark-area" points="46,255.88 61.84,254.99 77.69,255.61 93.53,255.88 109.37,255.94 125.22,255.9 141.06,255.63 156.9,254.41 172.75,254.8 188.59,254.65 204.43,252.98 220.27,252.58 236.12,254.26 251.96,250.22 267.8,250.91 283.65,246.54 299.49,250.74 315.33,254.07 331.18,255.38 347.02,254.63 362.86,255.42 378.71,254.84 394.55,253 410.39,254.84 426.24,253.99 442.08,251.94 457.92,254.01 473.76,252.83 489.61,252 505.45,254.47 521.29,254.22 537.14,255.42 552.98,254.78 568.82,251.59 584.67,255.83 600.51,255.92 616.35,256 632.2,255.94 648.04,255.3 663.88,255.21 679.73,255.25 695.57,251.2 711.41,249.95 727.25,251.51 743.1,255.34 758.94,253.72 774.78,250.93 790.63,248.94 806.47,235.62 822.31,246.72 838.16,218 854,254.05 854,256 46,256" fill="rgba(52,211,153,0.14)"/>
-<polyline id="tm-spark-line" points="46,255.88 61.84,254.99 77.69,255.61 93.53,255.88 109.37,255.94 125.22,255.9 141.06,255.63 156.9,254.41 172.75,254.8 188.59,254.65 204.43,252.98 220.27,252.58 236.12,254.26 251.96,250.22 267.8,250.91 283.65,246.54 299.49,250.74 315.33,254.07 331.18,255.38 347.02,254.63 362.86,255.42 378.71,254.84 394.55,253 410.39,254.84 426.24,253.99 442.08,251.94 457.92,254.01 473.76,252.83 489.61,252 505.45,254.47 521.29,254.22 537.14,255.42 552.98,254.78 568.82,251.59 584.67,255.83 600.51,255.92 616.35,256 632.2,255.94 648.04,255.3 663.88,255.21 679.73,255.25 695.57,251.2 711.41,249.95 727.25,251.51 743.1,255.34 758.94,253.72 774.78,250.93 790.63,248.94 806.47,235.62 822.31,246.72 838.16,218 854,254.05" fill="none" stroke="#34D399" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="865" stroke-dashoffset="0"/>
-<text class="tm-t" x="46" y="276" font-size="10.5" fill="#6E7681">8,601 contributions · last sync 2026-11-22 · auto-refreshed daily</text>
+<polygon id="tm-spark-area" points="46,255.88 61.84,254.99 77.69,255.61 93.53,255.88 109.37,255.94 125.22,255.9 141.06,255.63 156.9,254.41 172.75,254.8 188.59,254.66 204.43,252.98 220.27,252.59 236.12,254.27 251.96,250.24 267.8,250.92 283.65,246.56 299.49,250.75 315.33,254.08 331.18,255.38 347.02,254.64 362.86,255.42 378.71,254.84 394.55,253.01 410.39,254.84 426.24,254 442.08,251.95 457.92,254.02 473.76,252.84 489.61,252.01 505.45,254.47 521.29,254.22 537.14,255.42 552.98,254.78 568.82,251.6 584.67,255.83 600.51,255.92 616.35,256 632.2,255.94 648.04,255.3 663.88,255.22 679.73,255.26 695.57,251.21 711.41,249.97 727.25,251.52 743.1,255.34 758.94,253.73 774.78,250.94 790.63,248.96 806.47,235.68 822.31,246.75 838.16,218 854,250.3 854,256 46,256" fill="rgba(52,211,153,0.14)"/>
+<polyline id="tm-spark-line" points="46,255.88 61.84,254.99 77.69,255.61 93.53,255.88 109.37,255.94 125.22,255.9 141.06,255.63 156.9,254.41 172.75,254.8 188.59,254.66 204.43,252.98 220.27,252.59 236.12,254.27 251.96,250.24 267.8,250.92 283.65,246.56 299.49,250.75 315.33,254.08 331.18,255.38 347.02,254.64 362.86,255.42 378.71,254.84 394.55,253.01 410.39,254.84 426.24,254 442.08,251.95 457.92,254.02 473.76,252.84 489.61,252.01 505.45,254.47 521.29,254.22 537.14,255.42 552.98,254.78 568.82,251.6 584.67,255.83 600.51,255.92 616.35,256 632.2,255.94 648.04,255.3 663.88,255.22 679.73,255.26 695.57,251.21 711.41,249.97 727.25,251.52 743.1,255.34 758.94,253.73 774.78,250.94 790.63,248.96 806.47,235.68 822.31,246.75 838.16,218 854,250.3" fill="none" stroke="#34D399" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="862" stroke-dashoffset="0"/>
+<text class="tm-t" x="46" y="276" font-size="10.5" fill="#6E7681">8,779 contributions · last sync 2026-11-23 · auto-refreshed daily</text>
 </g>
 
 <!-- border -->
